@@ -1,0 +1,4 @@
+theme = "Dracula"
+background-opacity = 0.5
+background-blur = true
+font-size = 14
